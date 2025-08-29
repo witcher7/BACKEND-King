@@ -1,4 +1,4 @@
-# 🚀🦁 BACKEND KING 👑
+#🦁 BACKEND KING 👑
 
 > Microservices. Madness. Mastery.  
 > Node.js ⚔️ React 🔥 Vue.js 💚 NestJS 🛡️ Python 🐍 Golang 🦍 Kafka ⚡ — All Hail the Backend King!
@@ -50,7 +50,7 @@ This is a **multi-language, microservice-fueled, event-driven, full-stack monste
 # 🧠 Why This Repo?
 
 Because you’re tired of boring code.
-This repo is built for:
+🚀This repo is built for:
 
 ⚙️ Backend Wizards
 🔬 Full-stack Innovators
