@@ -154,3 +154,55 @@ Javascript --> Director, guiding interactions and dynamic changes based on user 
 
  Table tags are used to display data in a structured, grid format. The main tags are  (the
  container),  (table rows),  (table data cells), and  (table headers).
+
+  Code Example:
+ <table>
+  <tr>
+    <th>Product Name</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Widget A</td>
+    <td>$15.00</td>
+  </tr>
+  <tr>
+    <td>Widget B</td>
+    <td>$20.00</td>
+  </tr>
+ </table>
+
+
+ List tags are used to create lists of items.  
+an ordered list (numbers), and  
+ <ul>
+ <li>
+ creates an unordered list (bullets), defines each list item.
+
+ <ul>
+ <li>Item 1</li>
+ <li>Item 2</li>
+ </ul>
+ <ol>
+ <li>Step 1</li>
+ <li>Step 2</li>
+ </ol>
+
+# IFRAME
+ <iframe>
+ tag is used to embed another webpage or content (like a map or a video) inside
+ the current page.You want to embed a YouTube video or Google Map on your webpage. The  
+allows you to do this
+<iframe width="560" height="315" src="https://www.youtube.com/embed/example"
+ allowfullscreen></iframe>
+
+
+ <div>
+ tag is a container element used to group and style content. It doesn’t have any
+ specific meaning on its own but is essential for structuring webpages.
+
+ <div class="header">
+ <h1>Welcome to My Website</h1>
+ </div>
+ <div class="content">
+ <p>This is a paragraph inside a div.</p>
+ </div>
