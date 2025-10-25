@@ -206,3 +206,64 @@ allows you to do this
  <div class="content">
  <p>This is a paragraph inside a div.</p>
  </div>
+
+
+ The <img>
+ tag is used to display images on a webpage. It requires the  
+the path to the image file.
+<img src="image.jpg" alt="Description">
+
+
+
+
+#  Form Tags ( <form>, <input>, <label>)
+ Form tags are used to collect user input. The  
+<input>
+ <form>
+ is used for different types of user input, and  
+input is for.
+ Scenario:
+ tag is the container for form elements,
+ <label>
+ is used to describe what each
+
+ <form action="submit_form.php" method="post">
+ <label for="name">Name:</label>
+ <input type="text" id="name" name="name">
+ <input type="submit" value="Submit">
+ </form>
+
+
+ <b>Bold Text</b>
+ <i>Italic Text</i>
+ <strong>Strong Text</strong>
+ <em>Emphasized Text</em>
+
+
+ The  <span>
+ tag is an inline container used to group and style text or elements within a larger
+ block of content. Unlike 
+<div>
+ , it doesn’t break the flow of content
+ You want to change the color of a specific word in a paragraph without affecting the rest of the
+ text. The tag helps you do this.
+
+
+
+ HTML attributes provide additional information about HTML elements. They modify the
+ behavior or appearance of the element and are always included in the opening tag of the
+ element. Attributes are made up of a name and a value pair, like 
+For example, in 
+<a href="https://www.example.com"> href "https://www.example.com" name="value">
+
+
+# PRACTICE
+
+ Personal Webpage:
+ Create a personal webpage that includes:
+ A header with your name or logo (<header>).
+ A navigation menu (<nav>).
+ A section about yourself with an image and a brief bio (<section>).
+ A list of your skills or hobbies (<ul> or <ol>).
+ A contact form (<form>).
+ A footer with your contact information or social media links (<footer>)
