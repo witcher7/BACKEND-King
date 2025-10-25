@@ -84,3 +84,73 @@ Javascript --> Director, guiding interactions and dynamic changes based on user 
  6. Client: Your computer receives the data and displayswww.example.com.
  This entire process happens in a matter of seconds, allowing you to seamlessly browse the
  internet and access a world of information and services!
+
+
+ # Components of a Web Application
+ 1. Front-End: The part of the application the user interacts with, built using HTML, CSS,
+ and JavaScript.
+ 2. Back-End: The server, database, and application logic that process user requests.
+ 3. Database: Stores and retrieves data for the application.
+ 4. API (Application Programming Interface): Allows different parts of the application to
+ communicate with each other.
+
+
+ # What is HTML?
+ HTML stands for HyperText Markup Language
+ . It is the standard language used to create
+ webpages. HTML provides the basic structure of a website, which is then enhanced and
+ modified by other technologies like CSS (Cascading Style Sheets) and JavaScript
+
+
+  1. The <!DOCTYPE html>
+ Declaration:
+ This is the very first line of any HTML document. It tells the browser what version of HTML
+ you are using. For modern webpages, this is always <!DOCTYPE html>, which indicates HTML5.
+
+ 2. The <html> Tag:
+ This is the root element of an HTML document. Everything inside the webpage is contained
+ within the opening  <html>
+ 3. The <head>
+ The  <head> Section: and closing  </html> tags.
+ section contains meta-information about the document, such as its title, character
+ set, and links to external files like CSS or JavaScript. Content within the  
+<head> displayed directly on the webpage, but it’s crucial for the page's operation.
+ Key Elements in <head>: is not
+ <title>: Sets the title of the webpage, which appears in the browser tab.
+ <meta>: Defines metadata like character encoding, viewport settings, and SEO
+ information.
+ <link>: Used to link external resources like CSS files.
+ <script>: Links to or embeds JavaScript.
+ 
+ 4. The <body> The  <body> <body> Section:
+ section contains all the content that will be displayed on the webpage, such as
+ text, images, videos, links, and more. Everything visible on your webpage is placed inside the
+ tags
+
+
+ <html>: The root element that wraps all the content of the webpage.
+ <head>: Contains meta-information about the document, like the title.
+ <title>: Sets the title of the webpage that appears in the browser tab.
+ <body>: Contains the content of the webpage that will be displayed in the browser.
+ <h1>: Represents a top-level heading.
+ <p>: Represents a paragraph of text
+
+ <h1>Main Title</h1>
+ <h2>Section Title</h2>
+ <h3>Subsection Title</h3>
+ <a> tag is used to create hyperlinks, which allow users to navigate to other pages or
+ resources.
+
+ <a href="URL">Link Text</a>
+ <video controls>
+ <source src="video.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+ </video>
+
+ <audio controls>
+ <source src="audiofile.mp3" type="audio/mp3">
+ Your browser does not support the audio element.
+ </audio>
+
+ Table tags are used to display data in a structured, grid format. The main tags are  (the
+ container),  (table rows),  (table data cells), and  (table headers).
